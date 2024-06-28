@@ -1,0 +1,2 @@
+PATH_TO_TELGRAM_TOKEN_FILE = c:/../telegram_token
+PATH_TO_TELGRAM_ID = c:/../telegram_id
